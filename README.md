@@ -3,7 +3,9 @@
 
 ### I'm Elizaveta Ryapolova and I'm a data analyst.
 
-Here are some projects I've did as a part of my Data Analysis course at Yandex.Practicum:
+My favourite part of working with data is finding where the money comes from and how to get more of it.
+
+Here are some projects I did as a part of my Data Analysis course at Yandex.Practicum:
 
 | #    | Project                | Description                                                     | Tools                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |

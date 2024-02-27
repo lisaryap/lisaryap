@@ -9,7 +9,7 @@ Here are some projects I did as a part of my Data Analysis course at Yandex.Prac
 
 | #    | Project                | Description                                                     | Tools                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Mobile game monetization model](https://github.com/lisaryap/Portfolio/tree/main/Game%20monetization) | Checking if the proposed monetization model will be profitable considering current advertizing costs. | python, pandas, scipy, seaborn, matplotlib       |
-| 2.   | [Video games market analysis](https://github.com/lisaryap/Portfolio/tree/main/Game%20sales) | Finding key factors that determine the success of a game to plan advertising campaigns for an online game store.| python, pandas, scipy, seaborn, matplotlib |
-| 3.   | [Students' activity in Slack](https://github.com/lisaryap/Portfolio/tree/main/Messages%20and%20reactions) | Identifying causes of low feedback from students on important posts published in chats.             | python, pandas, seaborn, matplotlib, re |
-| 4.   | [NPS dashboard for a telecom company](https://github.com/lisaryap/Portfolio/tree/main/NPS%20telecom) | Getting insights into the current level of customer loyalty.             | SQL, python, pandas, Tableau |
+| 1.   | [Mobile game monetization model](https://github.com/lisaryap/Game-monetization) | Checking if the proposed monetization model will be profitable considering current advertizing costs. | python, pandas, scipy, seaborn, matplotlib       |
+| 2.   | [Video games market analysis](https://github.com/lisaryap/Game-sales) | Finding key factors that determine the success of a game to plan advertising campaigns for an online game store.| python, pandas, scipy, seaborn, matplotlib |
+| 3.   | [Students' activity in Slack](https://github.com/lisaryap/Messages-and-reactions) | Identifying causes of low feedback from students on important posts published in chats.             | python, pandas, seaborn, matplotlib, re |
+| 4.   | [NPS dashboard for a telecom company](https://github.com/lisaryap/NPS-telecom) | Getting insights into the current level of customer loyalty.             | SQL, python, pandas, Tableau |
